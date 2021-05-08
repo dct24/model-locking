@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dct24\\ModelLocking\\": "src"
+            "Sofa\\ModelLocking\\": "src"
         }
     },
     "minimum-stability": "stable",
