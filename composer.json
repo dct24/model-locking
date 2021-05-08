@@ -1,5 +1,5 @@
 {
-    "name": "sofa/model-locking",
+    "name": "dct24/model-locking",
     "description": "Pseudo pessimistic model locking with broadcasted events for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
