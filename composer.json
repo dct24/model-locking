@@ -32,7 +32,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Dct24\\ModelLocking\\ServiceProvider"
+                "Sofa\\ModelLocking\\ServiceProvider"
             ]
         }
     }
