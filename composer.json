@@ -25,14 +25,14 @@
     },
     "autoload": {
         "psr-4": {
-            "Sofa\\ModelLocking\\": "src"
+            "Dct24\\ModelLocking\\": "src"
         }
     },
     "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
-                "Sofa\\ModelLocking\\ServiceProvider"
+                "Dct24\\ModelLocking\\ServiceProvider"
             ]
         }
     }
